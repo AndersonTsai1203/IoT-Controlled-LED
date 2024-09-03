@@ -1,4 +1,4 @@
-# IoT-Controlled-LED
+# IoT Controlled LED
 
 The simplest IoT project where an LED can be turned on or off remotely via AWS IoT Core. It’s often considered the “Hello World” of IoT projects.
 
